@@ -1,1 +1,1 @@
-# Working with Spatio-Tempral Data in Apache Sedona
+# Working with Spatiotempral Data in Apache Sedona
